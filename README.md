@@ -1,6 +1,3 @@
-## GitHub Page
-https://stav95.github.io/Pathfinding-Visualizer/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
